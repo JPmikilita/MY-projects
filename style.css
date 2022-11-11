@@ -13,3 +13,10 @@ img{
   width: 30%;
   margin-left: 35%
 }
+li{
+  font-size: 30px
+}
+nav li {
+  display: inline;
+  padding: inherit;
+}
