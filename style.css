@@ -1,5 +1,9 @@
 h1{
-  font-size: 100px; color: black; text-align: center; font-family: serif;
+  font-size: 100px;
+  color: black;
+  text-align: center;
+  font-family: serif;
+  border: 10px; background-color: #b9f8f0
 }
 body{
   background-color: #fffdd0
